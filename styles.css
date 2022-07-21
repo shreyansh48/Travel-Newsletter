@@ -1,0 +1,92 @@
+body{
+  margin: 0;
+}
+h1{
+letter-spacing: 30px;
+line-height: 1px;
+color: white;
+font-size: 4rem;
+}
+h2{
+  line-height: 2px;
+  font-family: 'Roboto', sans-serif;
+}
+h3{
+  font-size: 1.5rem;
+  color: white;
+}
+p{
+  word-spacing: 2px;
+  font-family: 'Roboto', sans-serif;
+  color: #40514E;
+}
+
+.border{
+  border-style: solid;
+  border-width: thick;
+  border-color: white;
+  position: static;
+  padding: 10px;
+  left: 40px;
+  top: 20px;
+  bottom: 100px;
+  right: 40px;
+
+}
+
+.top-page{
+  margin: 0;
+  text-align: center;
+  padding: 20px;
+  background-color: #77D970;
+}
+.content-page{
+  margin-top: 15px;
+  position: relative;
+
+}
+.img1{
+  position: absolute;
+  left: 20px;
+  width: 22%;
+}
+.img2{
+  position: absolute;
+  left: 370px;
+  width: 20%;
+}
+.img3{
+  position: absolute;
+  right: 390px;
+  width: 20%;
+}
+.img4{
+  position: absolute;
+  right: 40px;
+  width: 20%;
+}
+.bottom-page{
+  position: relative;
+  width: 50%;
+  margin: 50px auto 50px auto;
+}
+.travel{
+  position: absolute;
+  top: 350px;
+  left: 20px;
+  text-align: left;
+}
+.travel-time{
+  float: left;
+  margin-right: 20px;
+}
+.relax{
+  position: absolute;
+  top: 600px;
+  left: 50px;
+  text-align: left;
+}
+.relax-time{
+  float: right;
+  margin-left: 20px;
+}
